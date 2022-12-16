@@ -1,6 +1,6 @@
 # Struktur-Data-A
 
-Materi
+Materi Stack Dan Queue
 
 Nama : Muhammad Fikri
 
